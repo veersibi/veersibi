@@ -1,4 +1,4 @@
-# Veerasibi Veerapandian [LinkedIn](https://www.linkedin.com/in/veerasibi)
+# Veerasibi Veerapandian [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veerasibi)
 
 👋 Hi, I'm **Veerasibi Veerapandian**, a results-oriented **Data Analyst & Business Analyst** with over 4 years of experience in leveraging **Python, SQL, Tableau, and CRM tools** to drive **data-informed decisions** and **optimize business processes** across **sales, marketing, and supply chain domains**.
 
