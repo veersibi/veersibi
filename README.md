@@ -1,4 +1,4 @@
-# Veerasibi Veerapandian [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veerasibi)
+# Veerasibi Veerapandian [LinkedIn](https://www.linkedin.com/in/veerasibi)
 
 👋 Hi, I'm **Veerasibi Veerapandian**, a results-oriented **Data Analyst & Business Analyst** with over 4 years of experience in leveraging **Python, SQL, Tableau, and CRM tools** to drive **data-informed decisions** and **optimize business processes** across **sales, marketing, and supply chain domains**.
 
@@ -16,35 +16,35 @@ I'm passionate about **data-driven decision-making**, building **interactive das
 ## 🛠 Technical Skills
 
 ### **Programming Languages & Tools**
-[![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-[![SQL](https://img.shields.io/badge/SQL-%23404d59.svg?style=for-the-badge)](https://www.mysql.com/)
-[![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+- Python
+- SQL
+- Git
 
 ### **Databases**
-[![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%233C54A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
-[![Redshift](https://img.shields.io/badge/AWS%20Redshift-%23FF9900.svg?style=for-the-badge&logo=amazon-redshift&logoColor=white)](https://aws.amazon.com/redshift/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
+- MySQL
+- PostgreSQL
+- AWS Redshift
+- MongoDB
 
 ### **Data Analysis & Visualization**
-[![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
-[![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
-[![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com)
-[![PowerBI](https://img.shields.io/badge/PowerBI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com)
+- Pandas
+- NumPy
+- Tableau
+- Power BI
+- Looker
 
 ### **Cloud & Big Data**
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
-[![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
-[![Looker](https://img.shields.io/badge/Looker-%23005FF.svg?style=for-the-badge&logo=looker&logoColor=white)](https://looker.com)
+- AWS
+- Azure
 
 ### **Machine Learning & Analytics**
-- **ML Libraries:** TensorFlow, Scikit-learn, PyTorch, Keras
-- **Techniques:** Predictive Analytics, A/B Testing, Data Storytelling, KPI Reporting, ETL Processes
-- **Algorithms:** Regression, Decision Trees, Clustering (K-means)
+- ML Libraries: TensorFlow, Scikit-learn, PyTorch, Keras
+- Techniques: Predictive Analytics, A/B Testing, Data Storytelling, KPI Reporting, ETL Processes
+- Algorithms: Regression, Decision Trees, Clustering (K-means)
 
 ### **Project Management & CRM**
-[![Jira](https://img.shields.io/badge/Jira-%230005FF.svg?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
-[![HubSpot](https://img.shields.io/badge/HubSpot-%23FF7A59.svg?style=for-the-badge&logo=hubspot&logoColor=white)](https://www.hubspot.com)
+- Jira
+- Confluence
 
 ## 📚 Education
 - **Master of Science in Information Systems** - Santa Clara University *(Sep 2022 - June 2024)*
@@ -65,11 +65,5 @@ I'm passionate about **data-driven decision-making**, building **interactive das
 - Developed a chatbot using **Supabase Vector Database & OpenAI GPT-3.5 API**.
 - Deployed to enhance customer engagement on an Indian startup's website.
 
-### 🎬 **OTT Churn Rate Prediction**
-- Built an ML model predicting customer churn for an OTT platform.
-- **Tech Stack:** Python, Scikit-learn, Power BI
-- **Impact:** Improved retention strategy based on churn indicators.
-
 ## 📫 How to Reach Me
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:veersibi@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veerasibi)
+[Email](mailto:veersibi@gmail.com) | [LinkedIn](https://www.linkedin.com/in/veerasibi)
